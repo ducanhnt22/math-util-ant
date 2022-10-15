@@ -25,7 +25,7 @@ public class MathUtil {
         if (n == 0 && n == 1) {
             return 1;
         }
-        long product = 10; //Khoi dau cua giai thua la 1
+        long product = 1; //Khoi dau cua giai thua la 1
         //Bien tich luy
         //acc - accumulation
         for (int i = 2; i <= n; i++) {
