@@ -13,9 +13,9 @@
 
 ### Screen-shots
 
-![Build process with Ant](https://github.com/ducanhnt22/math-util-ant/blob/main/math-util-ant/screenshot/build-process-with-ant.png)
+![Build process with Ant](https://github.com/ducanhnt22/math-util-ant/blob/main/screenshot/build-process-with-ant.png)
 
-![DTT Source Code with JUnit](https://github.com/ducanhnt22/math-util-ant/blob/main/math-util-ant/screenshot/ddt-source-code-with-junit.png)
+![DTT Source Code with JUnit](https://github.com/ducanhnt22/math-util-ant/blob/main/screenshot/ddt-source-code-with-junit.png)
 
 
 #### Connect me via ducanhbon4@gmail.com
